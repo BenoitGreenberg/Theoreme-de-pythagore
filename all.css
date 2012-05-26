@@ -1,0 +1,101 @@
+<style type="text/css">
+
+body {
+	background-color: #FFFFFF;
+	}
+
+input,select,option {
+	color: #0088E4;
+	background-color: #FFFFFF;
+}
+
+td {
+	color: #0088E4;
+}
+
+a:link {
+	color: #0058FF;
+	background-color: #FFFFFF;
+}
+
+a:visited {
+	color: #0058FF;
+	background-color: #FFFFFF;
+}
+
+a:hover {
+	color: #6633ff;
+	background-color: #FFFFFF;
+}
+
+a:active {
+	color: #0058FF;
+	background-color: #FFFFFF;
+}
+
+h1 {
+	font-size: xx-large;
+	color: #0088E4;
+	background-color: #FFFFFF;
+}
+
+h2 {
+	font-size: x-large;
+	color: #0088E4;
+	background-color: #FFFFFF;
+}
+
+h3 {
+	font-size: large;
+	color: #0088E4;
+	background-color: #FFFFFF;
+}
+
+h4 {
+	font-size: medium;
+	color: #0088E4;
+	background-color: #FFFFFF;
+}
+
+h5 {
+	font-size: small;
+	color: #0088E4;
+	background-color: #FFFFFF;
+}
+
+h6 {
+	font-size: x-small;
+	color: #0088E4;
+	background-color: #FFFFFF;
+}
+
+p {
+	font-size: medium;
+	color: #0088E4;
+	background-color: #FFFFFF;
+}
+
+img {
+	border-width:0px;
+}
+
+.underline {
+	text-decoration: underline;
+    float: none;
+    background-color: #FFFFFF;
+}
+
+.mode {
+	font-size: medium;
+	color: #0088E4;
+	background-color: #FFFFFF;
+}
+
+.racine {
+	text-decoration: overline;
+}
+
+#all {
+}
+
+</style>
