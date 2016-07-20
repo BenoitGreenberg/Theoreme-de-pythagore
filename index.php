@@ -19,7 +19,7 @@
 <!-- &#99;&#111;&#100;&#101;&nbsp;&#112;&#97;&#114;&nbsp;&#98;&#101;&#110;&#111;&#105;&#116;&nbsp;&#103;&#114;&#117;&#110;&#101;&#110;&#98;&#101;&#114;&#103;&#101;&#114; !-->
 
 <?php
-include('all.css');
+include 'all.css';
 ?>
 
 </head>
@@ -297,16 +297,14 @@ httprequest.onreadystatechange=action;
 
 <?php
 
-$mode = htmlspecialchars(trim($_COOKIE["mode"]["pythagore"]));
+$mode = htmlspecialchars(trim($_COOKIE['mode']['pythagore']));
 
-if ($mode == "basic")
-{
-echo "basic();";
+if ($mode == 'basic') {
+    echo 'basic();';
 }
 
-if ($mode == "avance"  OR $mode == "")
-{
-echo "avance();";
+if ($mode == 'avance'  or $mode == '') {
+    echo 'avance();';
 }
 
 ?>
