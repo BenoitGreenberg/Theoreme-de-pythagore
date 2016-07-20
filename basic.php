@@ -1,8 +1,8 @@
 <?php
-setcookie("mode[pythagore]");
-setcookie("mode[pythagore]","basic",time()+2505600);
+setcookie('mode[pythagore]');
+setcookie('mode[pythagore]', 'basic', time() + 2505600);
 
-$space = "&nbsp;&nbsp;&nbsp;";
+$space = '&nbsp;&nbsp;&nbsp;';
 ?>
 
 <form>
